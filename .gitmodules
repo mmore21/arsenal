@@ -1,0 +1,6 @@
+[submodule "raptor"]
+	path = raptor
+	url = https://github.com/mmore21/raptor
+[submodule "hacksible"]
+	path = hacksible
+	url = https://github.com/mmore21/hacksible
